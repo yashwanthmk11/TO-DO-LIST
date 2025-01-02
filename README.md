@@ -44,7 +44,7 @@ TO-DO-LIST-main/
 
 Clone the repository:
 
-git clone <repository-url>
+git clone (https://github.com/yashwanthmk11/TO-DO-LIST.git)
 
 Navigate to the project directory:
 
